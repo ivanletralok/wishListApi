@@ -1,0 +1,15 @@
+bin/
+obj/
+
+.vs/
+
+*.mdf
+*.ldf
+
+
+*.nupkg
+*.snupkg
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
