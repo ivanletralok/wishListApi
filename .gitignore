@@ -1,15 +1,19 @@
+# Archivos y carpetas de compilación
 bin/
 obj/
 
+# Configuraciones de Visual Studio
 .vs/
 
+# Archivos de migración y base de datos
 *.mdf
 *.ldf
 
-
+# Archivos temporales de NuGet
 *.nupkg
 *.snupkg
-*.user
-*.suo
-*.userosscache
-*.sln.docstates
+.nuget/
+.packages/
+
+# Otros archivos temporales
+*.log
