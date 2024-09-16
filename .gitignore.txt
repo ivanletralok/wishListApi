@@ -1,0 +1,37 @@
+# Archivos y carpetas de compilación
+bin/
+obj/
+
+# Configuraciones del entorno local
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos de configuración de usuario
+*.config
+*.log
+*.vs/
+
+# Archivos de migración y base de datos
+*.mdf
+*.ldf
+
+# Archivos temporales de NuGet
+*.nupkg
+*.snupkg
+.nuget/
+.packages/
+
+# Carpeta de paquetes de NuGet
+packages/
+
+# Archivos generados por el sistema
+Thumbs.db
+Desktop.ini
+
+# Carpeta de paquetes de npm (si usas npm en tu proyecto)
+node_modules/
+
+# Archivos de configuración personal
+*.secret

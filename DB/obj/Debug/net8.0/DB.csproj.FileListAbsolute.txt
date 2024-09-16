@@ -1,0 +1,14 @@
+D:\www\TiendaOnlineAPI\DB\bin\Debug\net8.0\DB.deps.json
+D:\www\TiendaOnlineAPI\DB\bin\Debug\net8.0\DB.runtimeconfig.json
+D:\www\TiendaOnlineAPI\DB\bin\Debug\net8.0\DB.dll
+D:\www\TiendaOnlineAPI\DB\bin\Debug\net8.0\DB.pdb
+D:\www\TiendaOnlineAPI\DB\obj\Debug\net8.0\DB.csproj.AssemblyReference.cache
+D:\www\TiendaOnlineAPI\DB\obj\Debug\net8.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\www\TiendaOnlineAPI\DB\obj\Debug\net8.0\DB.AssemblyInfoInputs.cache
+D:\www\TiendaOnlineAPI\DB\obj\Debug\net8.0\DB.AssemblyInfo.cs
+D:\www\TiendaOnlineAPI\DB\obj\Debug\net8.0\DB.csproj.CoreCompileInputs.cache
+D:\www\TiendaOnlineAPI\DB\obj\Debug\net8.0\DB.dll
+D:\www\TiendaOnlineAPI\DB\obj\Debug\net8.0\refint\DB.dll
+D:\www\TiendaOnlineAPI\DB\obj\Debug\net8.0\DB.pdb
+D:\www\TiendaOnlineAPI\DB\obj\Debug\net8.0\DB.genruntimeconfig.cache
+D:\www\TiendaOnlineAPI\DB\obj\Debug\net8.0\ref\DB.dll
